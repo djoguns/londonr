@@ -1,4 +1,4 @@
-# London R - Python for R Users
+# LondonR - Python for R Users
 
 ## Environment Setup
 

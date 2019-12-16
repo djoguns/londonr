@@ -18,7 +18,7 @@ conda activate londonr-env
 
 ```bash 
 conda env create -f environment.yml              # Create environment from environemnt.yml
-conda activate hc-model-env                      # Activate the environemnt
+conda activate my-env                      # Activate the environemnt
 conda env export > environment.yml --no-builds   # Update the environemnt.yml
 conda deactivate                                 # Deactivate the environment
 

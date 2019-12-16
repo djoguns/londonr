@@ -8,6 +8,8 @@ dependencies:
   - jupyter
   - xlrd
   - seaborn
+  - bokeh
+  - folium
   - scikit-learn
   - sqlalchemy
   - pymysql
@@ -16,6 +18,7 @@ dependencies:
   - r-essentials
   -
     pip:
-      - RISE 
+      - RISE
+      - yellowbrick
 name: londonr-env
 prefix: envs/londonr-env

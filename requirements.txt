@@ -3,9 +3,12 @@ pandas
 jupyter
 xlrd
 seaborn
+bokeh
+folium
 scikit-learn
 sqlalchemy
 pymysql
 pip
 rpy2
 r-essentials
+yellowbrick

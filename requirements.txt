@@ -1,0 +1,11 @@
+numpy
+pandas
+jupyter
+xlrd
+seaborn
+scikit-learn
+sqlalchemy
+pymysql
+pip
+rpy2
+r-essentials

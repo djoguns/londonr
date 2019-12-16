@@ -1,0 +1,1 @@
+from cuboid.cuboid import volume_cuboid

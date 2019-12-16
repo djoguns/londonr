@@ -1,0 +1,21 @@
+---
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - jupyter
+  - xlrd
+  - seaborn
+  - scikit-learn
+  - sqlalchemy
+  - pymysql
+  - pip
+  - rpy2
+  - r-essentials
+  -
+    pip:
+      - RISE 
+name: londonr-env
+prefix: envs/londonr-env
